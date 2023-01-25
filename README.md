@@ -22,8 +22,9 @@ Please follow the below commands to install the application:
 6. Open a console and cd to your project root directory
 7. Run composer install or php composer.phar install
 8. Run npm install
-9. Run php artisan key:generate
-10. Run php artisan migrate:fresh --seed
-11. Run php artisan serve
+9. Run nmp run dev
+10. Run php artisan key:generate
+11. Run php artisan migrate:fresh --seed
+12. Run php artisan serve
 
 You can now access your project at localhost:8000
